@@ -1,3 +1,5 @@
+<img src="Richard-Rembert-Github.png" width="100%">
+
 <h1 align="center">Hi 👋, I'm Richard Rembert</h1>
 <h3 align="center">A community taught full stack web developer based in New York</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif>
