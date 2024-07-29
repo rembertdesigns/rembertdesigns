@@ -29,14 +29,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rembertdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rembertdesigns" height="30" width="40" /></a>
-<a href="https://dev.to/rembertdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rembertdesigns" height="30" width="40" /></a>
-<a href="https://twitter.com/rembertdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rembertdesigns" height="30" width="40" /></a>
+<a href="https://twitter.com/RichardDRembert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richarddrembert" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rrembert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rrembert" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25347739/richard-rembert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25347739/richard-rembert" height="30" width="40" /></a>
-<a href="https://fb.com/richard rembert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="richard rembert" height="30" width="40" /></a>
-<a href="https://instagram.com/rembertdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rembertdesigns" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rembertdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rembertdesigns" height="30" width="40" /></a>
-<a href="https://medium.com/@rembertdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rembertdesigns" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/richard rembert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="richard rembert" height="30" width="40" /></a>
 </p>
 
