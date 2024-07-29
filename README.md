@@ -1,26 +1,24 @@
 <img src="Richard-Rembert-Github.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Richard Rembert</h1>
-<h3 align="center">A community taught full stack web developer based in New York</h3>
+<h3 align="center">A community-taught Software Engineer based in New York. I specialize in creating responsive & dynamic web applications, leveraging my skills across the entire web development stack. As a community taught Engineer, I embody the spirit of continuous learning and community engagement in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rembertdesigns&label=Profile%20views&color=0e75b6&style=flat" alt="rembertdesigns" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rembertdesigns" target="blank"><img src="https://img.shields.io/twitter/follow/rembertdesigns?logo=twitter&style=for-the-badge" alt="rembertdesigns" /></a> </p>
+<p align="left"> <a href="https://twitter.com/richarddrembert" target="blank"><img src="https://img.shields.io/twitter/follow/RichardDRembert?logo=twitter&style=for-the-badge" alt="RichardDRembert" /></a> </p>
 
-- 🌱 I’m currently learning **WebGL & Three.js**
+- 🌱 I’m currently building projects in Web3 that are focused on **Solana** and using programming languages like **Python & Rust**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.rembertdesigns.co/](https://www.rembertdesigns.co/)
-
-- 📝 I regularly write articles on [https://rembertdesigns.hashnode.dev/](https://rembertdesigns.hashnode.dev/)
+- 👨‍💻 All of my projects are available at [https://www.richarddrembert.com/](https://www.richarddrembert.com/)
 
 - 💬 Ask me about **CSS, React**
 
 - 📫 How to reach me **info@rembertdesigns.co**
 
-- 📄 Know about my experiences [https://www.rembertdesigns.co/](https://www.rembertdesigns.co/)
+- 📄 Know about my experiences [https://www.richarddrembert.com/](https://www.richarddrembert.com/)
 
 - ⚡ Fun fact **Former Master Sommelier & I build lego sets in my spare time**
 
