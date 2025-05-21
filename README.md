@@ -1,10 +1,10 @@
 <img src="Richard-Rembert-Github.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Richard Rembert</h1>
-<h3 align="center">
-AI Engineer • Automation Developer • SEO Specialist  
-Crafting intelligent apps, scaling digital workflows, and engineering visibility online.
-</h3>
+<h2 align="center"><strong>AI Engineer</strong> • <strong>Automation Developer</strong> • <strong>SEO Specialist</strong></h2>
+
+<h4 align="center"><em>Building intelligent web tools that automate workflows, boost discoverability, and scale digital impact with AI, SEO, and code.</em></h4>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif" />
 
@@ -76,7 +76,6 @@ Crafting intelligent apps, scaling digital workflows, and engineering visibility
   <a href="https://stackoverflow.com/users/25347739/richard-rembert" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" /></a>
   <a href="https://www.hackerrank.com/richard rembert" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" /></a>
 </p>
-rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rembertdesigns&show_icons=true&locale=en&layout=compact" alt="rembertdesigns" /></p>
