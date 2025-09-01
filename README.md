@@ -1,83 +1,54 @@
 <img src="Richard-Rembert-Github.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Richard Rembert</h1>
-<h2 align="center"><strong>AI Engineer</strong> • <strong>Automation Developer</strong> • <strong>SEO Specialist</strong></h2>
+<h2 align="center"><strong>AI Product Engineer</strong> • <strong>Automation & Data Solutions Architect</strong> • <strong>SEO Growth Strategist</strong></h2>
 
-<h4 align="center"><em>Building intelligent web tools that automate workflows, boost discoverability, and scale digital impact with AI, SEO, and code.</em></h4>
+<h4 align="center"><em>Designing and engineering impactful AI-driven solutions that automate complex workflows, amplify digital discoverability, and accelerate growth—merging advanced automation, data intelligence, and SEO strategy to empower businesses and makers at scale.</em></h4>
+
+---
+
+### 🔧 About Me  
+- 🚀 Building **game-changing AI solutions** that drive intelligent automation and streamline decision-making at scale  
+- 🧠 Specializing in **LLMs, LangChain, Retrieval-Augmented Generation (RAG), and next-gen automation agents**  
+- 🌍 Accelerating project growth with **advanced SEO engineering** and data-driven digital strategies  
+- 📍 Based in **New York, NY**  
+- 🤝 Eager to collaborate on **open-source, SaaS, or pioneering AI/automation initiatives**
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif" />
+---
 
+### 🌟 2025 Now  
+- 🤖 Building **AI automation agents** for workflows and businesses  
+- 📍 Shipping **SEO submission SaaS** using Puppeteer + Supabase  
+- 🧩 Developing **Eloura** — AI dashboards for parents & caregivers  
+- 🏎️ Creating **F1 AI projects** (Driver Analyzer, Strategy Predictor, Pit Stop Simulator)  
+- 🛰️ Exploring **Drone Remote ID Compliance Tracker (FAA 2025)**  
+
+---
+
+### 🧰 Tech Stack  
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rembertdesigns&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/RichardDRembert" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/RichardDRembert?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,tailwind,mongodb,express,figma,git,vercel,aws,azure" />
 </p>
 
 ---
 
-### 🔧 About Me
-
-- 🚀 Building **AI-powered tools**, smart automation, and web apps that drive results
-- 🧠 Passionate about using **LLMs, LangChain, RAG**, and **browser automation** to solve real-world problems
-- 🌍 Focused on **search visibility** through smart **SEO engineering** & data structuring
-- 🤝 Open to collaborations on **Open Source**, startups, or client tools
-
----
-
-### 🔭 Current Projects
-
-- 🧩 **Web3 Apps** with Solana, Python, and Rust
-- 🤖 GPT-based automation agents & custom AI workflows
-- 📍 Local SEO submission tools using Puppeteer + Supabase
-- 📈 AI dashboards for parenting & caregiving (Eloura)
+### 📫 Let’s Connect  
+- 🌐 Portfolio: [richarddrembert.com](https://www.richarddrembert.com/)  
+- 💼 LinkedIn: [linkedin.com/in/rrembert](https://linkedin.com/in/rrembert)  
+- 🐦 Twitter/X: [@RichardDRembert](https://twitter.com/RichardDRembert)  
+- 📰 Substack: [richarddrembert.substack.com](https://richarddrembert.substack.com/?utm_campaign=profile&utm_medium=profile-page)  
+- 📧 Email: info@rembertdesigns.co  
+- 🧠 Fun Fact: Former **Sommelier 🍷** turned AI builder—now crafting smart bots, LEGO sets, playlists, and capturing moments around the world.  
 
 ---
 
-### 📫 Let’s Connect
+### 📊 GitHub Stats  
 
-- 🌐 Portfolio: [richarddrembert.com](https://www.richarddrembert.com/)
-- 📧 Email: info@rembertdesigns.co
-- 🧠 Fun Fact: Former Master Sommelier 🍷 — now I build bots & Lego sets.
-
----
-
-### 🧰 Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rembertdesigns&show_icons=true&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
----
-
-### 📝 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://codepen.io/rembertdesigns" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40" /></a>
-  <a href="https://twitter.com/RichardDRembert" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" /></a>
-  <a href="https://linkedin.com/in/rrembert" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
-  <a href="https://stackoverflow.com/users/25347739/richard-rembert" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" /></a>
-  <a href="https://www.hackerrank.com/richard rembert" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" /></a>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rembertdesigns&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rembertdesigns&show_icons=true&locale=en&layout=compact" alt="rembertdesigns" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rembertdesigns&show_icons=true&locale=en" alt="rembertdesigns" /></p>
