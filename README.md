@@ -11,11 +11,11 @@ My work flexibly spans hands-on model engineering and full-scale product develop
 
 ## 🔧 About Me  
 
-- 🚀 **Empowering others** with AI/automation solutions and machine learning implementations
-- 🧠 Specializing in **LLMs, LangChain, RAG pipelines, reinforcement learning, and intelligent automation agents**
-- 🤖 Building **production-ready AI systems** for workflow optimization and data intelligence
-- 🌍 Accelerating digital growth through **advanced SEO engineering** and data-driven strategies
-- 📍 Based in **New York, NY**
+- 🚀 **Empowering others** with AI/automation solutions and machine learning implementations  
+- 🧠 Specializing in **LLMs, LangChain, RAG pipelines, reinforcement learning, and intelligent automation agents**  
+- 🤖 Building **production-ready AI systems** for workflow optimization and data intelligence  
+- 🌍 Accelerating digital growth through **advanced SEO engineering** and data-driven strategies  
+- 📍 Based in **New York, NY**  
 - 🤝 Open to collaborating on **AI/ML projects, automation systems, and open-source initiatives**
 
 ---
@@ -24,36 +24,36 @@ My work flexibly spans hands-on model engineering and full-scale product develop
 
 ### AI & Machine Learning Projects
 
-- 🏎️ **F1 Pit Stop Strategy Simulator** - Reinforcement learning (Q-Learning & PPO) for racing optimization
-- 🏁 **F1 Driver Performance Analyzer** - ML-powered driver statistics and predictive analytics
-- 🎯 **F1 Race Strategy Predictor** - Deep learning models for strategic race forecasting
+- 🏎️ **F1 Pit Stop Strategy Simulator** - Reinforcement learning (Q-Learning & PPO) for racing optimization  
+- 🏁 **F1 Driver Performance Analyzer** - ML-powered driver statistics and predictive analytics  
+- 🎯 **F1 Race Strategy Predictor** - Deep learning models for strategic race forecasting  
 
 ### Automation & SaaS Solutions
 
-- 🤖 **AI Automation Agents** - Custom workflow automation for businesses and creators
-- 📍 **SEO Submission SaaS** - Automated directory submission using Puppeteer + Supabase
-- 🛰️ **Drone Remote ID Compliance Tracker** - FAA 2025 regulation monitoring system
+- 🤖 **AI Automation Agents** - Custom workflow automation for businesses and creators  
+- 📍 **SEO Submission SaaS** - Automated directory submission using Puppeteer + Supabase  
+- 🛰️ **Drone Remote ID Compliance Tracker** - FAA 2025 regulation monitoring system  
 
 ### Consulting & Education
 
-- 💡 **Helping businesses** implement AI/automation solutions
-- 📚 **Teaching machine learning** concepts through practical projects
-- 🔧 **Building open-source tools** for the AI/ML community
+- 💡 **Helping businesses** implement AI/automation solutions  
+- 📚 **Teaching machine learning** concepts through practical projects  
+- 🔧 **Building open-source tools** for the AI/ML community  
 
 ---
 
 ## 🧰 Tech Stack  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,nextjs,tailwind,mongodb,postgres,supabase,express,fastapi,docker,git,github,figma,vscode,vercel,aws,azure" />
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,nextjs,tailwind,mongodb,postgres,supabase,express,fastapi,docker,git,github,figma,vscode,vercel,aws,azure" />  
 </p>
 
-**Core Technologies:**
-- **AI/ML:** Python, PyTorch, TensorFlow, Scikit-learn, LangChain, OpenAI
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, FastAPI, Supabase
-- **Data:** MongoDB, PostgreSQL, Redis
-- **Tools:** Docker, Git, AWS, Azure, Vercel
+**Core Technologies:**  
+- **AI/ML:** Python, PyTorch, TensorFlow, Scikit-learn, LangChain, OpenAI  
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Express, FastAPI, Supabase  
+- **Data:** MongoDB, PostgreSQL, Redis  
+- **Tools:** Docker, Git, AWS, Azure, Vercel  
 
 ---
 
@@ -63,24 +63,24 @@ My work flexibly spans hands-on model engineering and full-scale product develop
 - 💼 **LinkedIn:** [linkedin.com/in/rrembert](https://linkedin.com/in/rrembert)  
 - 🐦 **Twitter/X:** [@RichardDRembert](https://twitter.com/RichardDRembert)  
 - 📰 **Substack:** [richarddrembert.substack.com](https://richarddrembert.substack.com/?utm_campaign=profile&utm_medium=profile-page)  
-- 📧 **Email:** richardrembert29@gmail.com 
+- 📧 **Email:** [richardrembert29@gmail.com](mailto:richardrembert29@gmail.com)  
 
 ---
 
 ## 💼 Services & Collaboration
 
 ### What I Can Help With:
-- 🤖 **AI/ML Implementation** - Custom machine learning solutions and model deployment
-- 🔄 **Workflow Automation** - Intelligent automation systems using LLMs and agents
-- 📊 **Data Intelligence** - Analytics pipelines and predictive modeling
-- 🔍 **SEO Engineering** - Technical SEO and growth automation
-- 🎓 **Consulting & Training** - AI/ML education and strategy development
+- 🤖 **AI/ML Implementation** - Custom machine learning solutions and model deployment  
+- 🔄 **Workflow Automation** - Intelligent automation systems using LLMs and agents  
+- 📊 **Data Intelligence** - Analytics pipelines and predictive modeling  
+- 🔍 **SEO Engineering** - Technical SEO and growth automation  
+- 🎓 **Consulting & Training** - AI/ML education and strategy development  
 
 ### Open to:
-- 💡 Consulting projects in AI/automation/ML
-- 🤝 Collaborative ventures on innovative tech solutions
-- 📚 Speaking engagements on AI and automation
-- 🌟 Open-source contributions to impactful projects
+- 💡 Consulting projects in AI/automation/ML  
+- 🤝 Collaborative ventures on innovative tech solutions  
+- 📚 Speaking engagements on AI and automation  
+- 🌟 Open-source contributions to impactful projects  
 
 ---
 
@@ -92,13 +92,14 @@ Former **Sommelier 🍷** turned AI engineer—from pairing wines to pairing alg
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rembertdesigns&show_icons=true&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rembertdesigns&show_icons=true&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rembertdesigns&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=rembertdesigns&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />  
 </p>
+
 
 ---
 
