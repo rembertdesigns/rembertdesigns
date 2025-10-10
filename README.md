@@ -1,54 +1,112 @@
 <img src="Richard-Rembert-Github.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Richard Rembert</h1>
-<h2 align="center"><strong>AI Product Engineer</strong> • <strong>Automation & Data Solutions Architect</strong> • <strong>SEO Growth Strategist</strong></h2>
-
-<h4 align="center"><em>Designing and engineering impactful AI-driven solutions that automate complex workflows, amplify digital discoverability, and accelerate growth—merging advanced automation, data intelligence, and SEO strategy to empower businesses and makers at scale.</em></h4>
-
----
-
-### 🔧 About Me  
-- 🚀 Building **game-changing AI solutions** that drive intelligent automation and streamline decision-making at scale  
-- 🧠 Specializing in **LLMs, LangChain, Retrieval-Augmented Generation (RAG), and next-gen automation agents**  
-- 🌍 Accelerating project growth with **advanced SEO engineering** and data-driven digital strategies  
-- 📍 Based in **New York, NY**  
-- 🤝 Eager to collaborate on **open-source, SaaS, or pioneering AI/automation initiatives**
-
+<h2 align="center"><strong>AI Product Engineer</strong> • <strong>Automation & Machine Learning Specialist</strong> • <strong>SEO Growth Strategist</strong></h2>
+<h4 align="center"><em>Building AI-powered automation systems and machine learning solutions that transform workflows, accelerate decision-making, and drive measurable growth—helping businesses and creators harness the power of intelligent systems at scale.</em></h4>
 
 ---
 
-### 🌟 2025 Now  
-- 🤖 Building **AI automation agents** for workflows and businesses  
-- 📍 Shipping **SEO submission SaaS** using Puppeteer + Supabase  
-- 🧩 Developing **Eloura** — AI dashboards for parents & caregivers  
-- 🏎️ Creating **F1 AI projects** (Driver Analyzer, Strategy Predictor, Pit Stop Simulator)  
-- 🛰️ Exploring **Drone Remote ID Compliance Tracker (FAA 2025)**  
+## 🔧 About Me  
+
+- 🚀 **Empowering others** with AI/automation solutions and machine learning implementations
+- 🧠 Specializing in **LLMs, LangChain, RAG pipelines, reinforcement learning, and intelligent automation agents**
+- 🤖 Building **production-ready AI systems** for workflow optimization and data intelligence
+- 🌍 Accelerating digital growth through **advanced SEO engineering** and data-driven strategies
+- 📍 Based in **New York, NY**
+- 🤝 Open to collaborating on **AI/ML projects, automation systems, and open-source initiatives**
 
 ---
 
-### 🧰 Tech Stack  
+## 🌟 Currently Building (2025)
+
+### AI & Machine Learning Projects
+
+- 🏎️ **F1 Pit Stop Strategy Simulator** - Reinforcement learning (Q-Learning & PPO) for racing optimization
+- 🏁 **F1 Driver Performance Analyzer** - ML-powered driver statistics and predictive analytics
+- 🎯 **F1 Race Strategy Predictor** - Deep learning models for strategic race forecasting
+
+### Automation & SaaS Solutions
+
+- 🤖 **AI Automation Agents** - Custom workflow automation for businesses and creators
+- 📍 **SEO Submission SaaS** - Automated directory submission using Puppeteer + Supabase
+- 🛰️ **Drone Remote ID Compliance Tracker** - FAA 2025 regulation monitoring system
+
+### Consulting & Education
+
+- 💡 **Helping businesses** implement AI/automation solutions
+- 📚 **Teaching machine learning** concepts through practical projects
+- 🔧 **Building open-source tools** for the AI/ML community
+
+---
+
+## 🧰 Tech Stack  
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,tailwind,mongodb,express,figma,git,vercel,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,nextjs,tailwind,mongodb,postgres,supabase,express,fastapi,docker,git,github,figma,vscode,vercel,aws,azure" />
+</p>
+
+**Core Technologies:**
+- **AI/ML:** Python, PyTorch, TensorFlow, Scikit-learn, LangChain, OpenAI
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, FastAPI, Supabase
+- **Data:** MongoDB, PostgreSQL, Redis
+- **Tools:** Docker, Git, AWS, Azure, Vercel
+
+---
+
+## 📫 Let's Connect  
+
+- 🌐 **Portfolio:** [richarddrembert.com](https://www.richarddrembert.com/)  
+- 💼 **LinkedIn:** [linkedin.com/in/rrembert](https://linkedin.com/in/rrembert)  
+- 🐦 **Twitter/X:** [@RichardDRembert](https://twitter.com/RichardDRembert)  
+- 📰 **Substack:** [richarddrembert.substack.com](https://richarddrembert.substack.com/?utm_campaign=profile&utm_medium=profile-page)  
+- 📧 **Email:** info@rembertdesigns.co  
+
+---
+
+## 💼 Services & Collaboration
+
+### What I Can Help With:
+- 🤖 **AI/ML Implementation** - Custom machine learning solutions and model deployment
+- 🔄 **Workflow Automation** - Intelligent automation systems using LLMs and agents
+- 📊 **Data Intelligence** - Analytics pipelines and predictive modeling
+- 🔍 **SEO Engineering** - Technical SEO and growth automation
+- 🎓 **Consulting & Training** - AI/ML education and strategy development
+
+### Open to:
+- 💡 Consulting projects in AI/automation/ML
+- 🤝 Collaborative ventures on innovative tech solutions
+- 📚 Speaking engagements on AI and automation
+- 🌟 Open-source contributions to impactful projects
+
+---
+
+## 🧠 Fun Fact
+
+Former **Sommelier 🍷** turned AI engineer—from pairing wines to pairing algorithms. Now crafting intelligent automation systems, building LEGO architectures, curating playlists, and capturing moments around the world.
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rembertdesigns&show_icons=true&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rembertdesigns&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rembertdesigns&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Let’s Connect  
-- 🌐 Portfolio: [richarddrembert.com](https://www.richarddrembert.com/)  
-- 💼 LinkedIn: [linkedin.com/in/rrembert](https://linkedin.com/in/rrembert)  
-- 🐦 Twitter/X: [@RichardDRembert](https://twitter.com/RichardDRembert)  
-- 📰 Substack: [richarddrembert.substack.com](https://richarddrembert.substack.com/?utm_campaign=profile&utm_medium=profile-page)  
-- 📧 Email: info@rembertdesigns.co  
-- 🧠 Fun Fact: Former **Sommelier 🍷** turned AI builder—now crafting smart bots, LEGO sets, playlists, and capturing moments around the world.  
-
----
-
-### 📊 GitHub Stats  
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rembertdesigns&show_icons=true&layout=compact&theme=dark" alt="Top Langs" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rembertdesigns&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rembertdesigns&show_icons=true&theme=dark" alt="GitHub Stats" />
+<p align="center">
+  <em>"Transforming complexity into clarity through intelligent automation"</em>
 </p>
