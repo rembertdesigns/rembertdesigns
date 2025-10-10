@@ -60,7 +60,7 @@
 - 💼 **LinkedIn:** [linkedin.com/in/rrembert](https://linkedin.com/in/rrembert)  
 - 🐦 **Twitter/X:** [@RichardDRembert](https://twitter.com/RichardDRembert)  
 - 📰 **Substack:** [richarddrembert.substack.com](https://richarddrembert.substack.com/?utm_campaign=profile&utm_medium=profile-page)  
-- 📧 **Email:** info@rembertdesigns.co  
+- 📧 **Email:** richardrembert29@gmail.com 
 
 ---
 
@@ -95,10 +95,6 @@ Former **Sommelier 🍷** turned AI engineer—from pairing wines to pairing alg
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rembertdesigns&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rembertdesigns&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
