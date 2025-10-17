@@ -1,7 +1,7 @@
 <img src="Richard-Rembert-Github.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Richard Rembert</h1>
-<h2 align="center"><strong>AI Product Engineer & AI Engineer</strong> • <strong>Automation & Machine Learning Specialist</strong> • <strong>SEO Growth Strategist</strong></h2>
+<h2 align="center"><strong>AI Engineer</strong> • <strong>Automation & Machine Learning Specialist</strong> • <strong>SEO Growth Strategist</strong></h2>
 <h4 align="center"><em>
 Developing AI-powered automation systems, machine learning solutions, and scalable digital products that drive growth and optimize workflows.  
 My work flexibly spans hands-on model engineering and full-scale product development—from advanced Python and AI/ML pipelines to launching end-to-end intelligent platforms and workflow tools. I partner with teams and clients to accelerate decision-making and deliver measurable impact through tailored, user-focused technology.
